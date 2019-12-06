@@ -1,17 +1,11 @@
 ### amass Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+* Project Level
+* Project Type
+* Version, etc
 
-### Downloads or Social Links
+## Downloads or Social Links
 * [Download](#)
-* [Meetup](#)
+* [Social Link](#)
 
-### Code Repository
+## Code Repository
 * [repo](#)
-
-### Change Log
-* [changes](#)
-
