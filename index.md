@@ -13,7 +13,7 @@ type: tool
 
 ![OWASP_Project_Header.jpg](OWASP_Project_Header.jpg
 "OWASP_Project_Header.jpg")
-
+This is an example of a Project or Chapter Page.
 </div>
 
 <table>
