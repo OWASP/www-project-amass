@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP amass
 tags: example-tag
-level: 4
+level: 0
 type: tool
 
 ---
