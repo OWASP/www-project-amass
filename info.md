@@ -3,9 +3,9 @@
 <!--* Project Type
 * Version, etc-->
 
-## Downloads or Social Links
+### Downloads or Social Links
 <!--* [Download](#)
 * [Social Link](#)-->
 
-## Code Repository
+### Code Repository
 <!--* [repo](#)-->
