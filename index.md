@@ -7,6 +7,7 @@ level: 0
 type: tool
 
 auto-migrated: 1
+auto-migrated: 1
 ---
 
 This is an example of a Project or Chapter Page.
