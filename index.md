@@ -2,9 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Amass
-tags: builders
+tags: owasp amass dns subdomain enumeration osint recon asset-discovery network-security
+project: true
 level: 4
 type: tool
+pitch: An advanced open source tool to help information security professionals perform network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques!
 
 ---
 
