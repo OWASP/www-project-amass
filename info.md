@@ -1,5 +1,4 @@
 ### Project Classification
-
 ![Lab Project](assets/images/owasp_level_labs.svg)
 
 ![Builders](assets/images/owasp_builders.svg)
@@ -16,9 +15,7 @@
 * [Join the Amass Discord Server](https://discord.gg/rtN8GMd)
 
 ### Getting Involved
-
 - [Contributing to Amass](https://github.com/OWASP/Amass/blob/master/CONTRIBUTING.md)
 
 ### Licensing
-
-The OWASP Amass Project is free to use under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+- The OWASP Amass Project is free to use under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
