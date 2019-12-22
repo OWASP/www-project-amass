@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Amass
 tags: builders
-level: 3
+level: 4
 type: tool
 
 ---
@@ -35,7 +35,7 @@ All you have to do is make the Project Leader aware of your available time to [c
 
 ### If I am not a programmer can I participate in the project?
 
-Yes, you can certainly participate in the project if you are not a programmer. The project needs different skills and expertise at different times during its development. Currently, we are looking for researchers, programmers, writers, and graphic designers. See the Road Map and Getting Involved tab for more details.
+Yes, you can certainly participate in the project if you are not a programmer. The project needs different skills and expertise at different times during its development. Currently, we are looking for researchers, programmers, writers, and graphic designers.
 
 ## Core Team
 
