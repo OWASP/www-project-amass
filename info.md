@@ -1,5 +1,5 @@
 ### Project Classification
-![Lab Project](assets/images/owasp_level_labs.svg)
+![Flagship Project](assets/images/owasp_level_flagship.svg)
 
 ![Builders](assets/images/owasp_builders.svg)
 
