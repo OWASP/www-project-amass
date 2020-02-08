@@ -2,14 +2,16 @@
 
 layout: col-sidebar
 title: OWASP Amass
-tags: builders
-level: 3
+tags: owasp amass dns subdomain enumeration osint recon asset-discovery network-security builders
+project: true
+level: 4
 type: tool
+pitch: An advanced open source tool to help information security professionals perform network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques!
 
 ---
 
-[![OWASP Lab](https://img.shields.io/badge/OWASP-Lab%20Project-yellow)](https://www.owasp.org/index.php/Category:OWASP_Project)
-[![GitHub release](https://img.shields.io/github/release/OWASP/Amass)](https://github.com/OWASP/Amass/releases)
+[![OWASP Flagship](https://img.shields.io/badge/OWASP-Flagship%20Project-48A646.svg)](https://owasp.org/projects/#div-flagships)
+[![GitHub Release](https://img.shields.io/github/release/OWASP/Amass)](https://github.com/OWASP/Amass/releases)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/owaspamass.svg?logo=twitter)](https://twitter.com/owaspamass)
 [![Chat on Discord](https://img.shields.io/discord/433729817918308352.svg?logo=discord)](https://discord.gg/rtN8GMd)
@@ -36,7 +38,7 @@ All you have to do is make the Project Leader aware of your available time to [c
 
 ### If I am not a programmer can I participate in the project?
 
-Yes, you can certainly participate in the project if you are not a programmer. The project needs different skills and expertise at different times during its development. Currently, we are looking for researchers, programmers, writers, and graphic designers. See the Road Map and Getting Involved tab for more details.
+Yes, you can certainly participate in the project if you are not a programmer. The project needs different skills and expertise at different times during its development. Currently, we are looking for researchers, programmers, writers, and graphic designers.
 
 ## Core Team
 
@@ -48,7 +50,6 @@ Yes, you can certainly participate in the project if you are not a programmer. T
 This project improves thanks to all the people who contribute:
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/emtunc.svg?logo=twitter)](https://twitter.com/emtunc)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/fork_while_fork.svg?logo=twitter)](https://twitter.com/fork_while_fork)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/rbadguy1.svg?logo=twitter)](https://twitter.com/rbadguy1)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/danjomart.svg?logo=twitter)](https://twitter.com/danjomart)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/THB_STX.svg?logo=twitter)](https://twitter.com/THB_STX)
