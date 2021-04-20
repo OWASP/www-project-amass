@@ -1,9 +1,8 @@
 ### Project Classification
-![Flagship Project](assets/images/owasp_level_flagship.svg)
-
-![Builders](assets/images/owasp_builders.svg)
-
-![Tool Project](assets/images/owasp_tool_project.svg)
+* <i class="fas fa-flag" style="color:#2ADA08;"></i> Flagship Project
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 
 ### Code Repository
 * [GitHub Repository](https://github.com/OWASP/Amass)
