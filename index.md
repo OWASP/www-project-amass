@@ -26,7 +26,7 @@ In-depth DNS Enumeration, Attack Surface Mapping and External Asset Discovery!
 
 The OWASP Amass Project has developed a tool to help information security professionals perform network mapping of attack surfaces and perform external asset discovery using open source information gathering and active reconnaissance techniques.
 
-If you have any questions about the OWASP Amass Project, please email the project leader [Jeff Foley](mailto://jeff.foley@owasp.org), or contact us on the project's Discord server (**Discord is highly preferred**).
+If you have any questions about the OWASP Amass Project, please email the project leader [Jeff Foley](mailto://jeff.foley@owasp.org), or contact us on the project's [Discord server](https://discord.com/invite/rtN8GMd) (**Discord is highly preferred**).
 
 ## Participation
 
