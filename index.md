@@ -7,6 +7,8 @@ project: true
 level: 4
 type: tool
 pitch: An advanced open source tool to help information security professionals perform network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques!
+shortname: Amass
+shorttext: Visualize your network attack surfaces and external assets
 
 ---
 
