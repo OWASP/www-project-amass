@@ -11,13 +11,13 @@ pitch: An open source framework that helps information security professionals pe
 ---
 
 <p align="center">
-  <img src="https://github.com/owasp-amass/amass/blob/master/images/amass_video.gif">
+  <img src="https://raw.githubusercontent.com/owasp-amass/amass/master/images/amass_video.gif">
 </p>
 
 [![OWASP Flagship](https://img.shields.io/badge/OWASP-Flagship%20Project-48A646.svg)](https://owasp.org/projects/#div-flagships)
-[![GitHub Release](https://img.shields.io/github/release/OWASP/Amass)](https://github.com/owasp-amass/amass/releases)
-[![Docker Images](https://img.shields.io/docker/pulls/caffix/amass.svg)](https://hub.docker.com/r/caffix/amass)
+[![GitHub Release](https://img.shields.io/github/release/owasp-amass/amass)](https://github.com/owasp-amass/amass/releases)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Docker Images](https://img.shields.io/docker/pulls/caffix/amass.svg)](https://hub.docker.com/r/caffix/amass)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/owaspamass.svg?logo=twitter)](https://twitter.com/owaspamass)
 [![Chat on Discord](https://img.shields.io/discord/433729817918308352.svg?logo=discord)](https://discord.gg/HNePVyX3cp)
 
@@ -33,7 +33,7 @@ If you have any questions about the OWASP Amass Project, please email the projec
 
 ## Corporate Supporters
 
-[![ZeroFox Logo](https://github.com/owasp-amass/amass/blob/master/images/zerofox_logo.png)](https://www.zerofox.com/) [![IPinfo Logo](https://github.com/owasp-amass/amass/blob/master/images/ipinfo_logo.png)](https://ipinfo.io/) [![WhoisXML API Logo](https://github.com/owasp-amass/amass/blob/master/images/whoisxmlapi_logo.png)](https://www.whoisxmlapi.com/)
+[![ZeroFox Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/zerofox_logo.png)](https://www.zerofox.com/) [![IPinfo Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/ipinfo_logo.png)](https://ipinfo.io/) [![WhoisXML API Logo](https://raw.githubusercontent.com/owasp-amass/amass/master/images/whoisxmlapi_logo.png)](https://www.whoisxmlapi.com/)
 
 ## Participation
 
