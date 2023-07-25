@@ -5,16 +5,16 @@
 * <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 
 ### Code Repository
-* [GitHub Repository](https://github.com/OWASP/Amass)
+* [GitHub Repository](https://github.com/owasp-amass)
 
 ### Downloads or Social Links
-* [Official Binary Images](https://github.com/OWASP/Amass/releases)
+* [Official Binary Images](https://github.com/owasp-amass/amass/releases)
 * [Official Docker Images](https://hub.docker.com/r/caffix/amass)
 * [Official Twitter Account](https://twitter.com/owaspamass)
-* [Join the Amass Discord Server](https://discord.gg/rtN8GMd)
+* [Join the Amass Discord Server](https://discord.gg/HNePVyX3cp)
 
 ### Getting Involved
-- [Contributing to Amass](https://github.com/OWASP/Amass/blob/master/CONTRIBUTING.md)
+- [Contributing to Amass](https://github.com/owasp-amass/amass/blob/master/CONTRIBUTING.md)
 
 ### Licensing
 - The OWASP Amass Project is free to use under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
