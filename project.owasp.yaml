@@ -1,0 +1,66 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Jeff Foley
+    email: //jeff.foley@owasp.org
+    github: caffix
+level: 4
+license:
+  - Apache License 2.0
+  - Apache-2.0
+  - MPL-2.0
+name: OWASP Amass
+pitch: An open source framework that helps information security professionals perform network mapping of attack surfaces and external asset discovery using
+  open source intelligence gathering and reconnaissance techniques!
+repositories:
+  - name: www-project-amass
+    url: https://github.com/OWASP/www-project-amass
+    description: OWASP Foundation Web Repository
+  - name: .github
+    url: https://github.com/owasp-amass/.github
+  - name: amass
+    url: https://github.com/owasp-amass/amass
+    description: In-depth attack surface mapping and asset discovery
+  - name: amass-docker-compose
+    url: https://github.com/owasp-amass/amass-docker-compose
+    description: OWASP Amass Docker Compose for setting up a full instance of the infrastructure
+  - name: asset-db
+    url: https://github.com/owasp-amass/asset-db
+    description: Database interaction layer to store the Open Asset Model in a database management system
+  - name: certspotter
+    url: https://github.com/owasp-amass/certspotter
+    description: CT Log Monitor for the Amass Containerized Environments
+  - name: config
+    url: https://github.com/owasp-amass/config
+    description: Configuration file parsing and convenience routines
+  - name: docs
+    url: https://github.com/owasp-amass/docs
+    description: Official Documentation for the OWASP Amass Project
+  - name: engine
+    url: https://github.com/owasp-amass/engine
+    description: In-depth attack surface discovery with Open Asset Model
+  - name: homebrew-amass
+    url: https://github.com/owasp-amass/homebrew-amass
+    description: The OWASP Amass Homebrew Formula
+  - name: oam-tools
+    url: https://github.com/owasp-amass/oam-tools
+    description: Analysis and management tools for an Open Asset Model database
+  - name: open-asset-model
+    url: https://github.com/owasp-amass/open-asset-model
+    description: Asset definitions for an organization's external attack surface
+  - name: resolve
+    url: https://github.com/owasp-amass/resolve
+    description: DNS resolver pools written in Go
+tags:
+  - owasp
+  - amass
+  - dns
+  - asm
+  - osint
+  - recon
+  - asset-discovery
+  - network-security
+  - builders
+type: tool
+website: https://owasp.org/www-project-amass
